@@ -1,0 +1,14 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = crlf
+indent_size = 4
+indent_style = tab
+insert_final_newline = true
+max_line_length = 128
+tab_width = 4
+
+[*.kt]
+ij_java_doc_align_param_comments = true
+ij_java_doc_add_blank_line_after_description = true
